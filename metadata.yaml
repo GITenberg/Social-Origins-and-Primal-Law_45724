@@ -1,0 +1,35 @@
+_repo: Social-Origins-and-Primal-Law_45724
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45724-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  - agent_name: Atkinson, J. J. (James Jasper)
+    alias: Atkinson, James Jasper
+    deathdate: 1899
+    gutenberg_agent_id: '43428'
+    url: http://www.gutenberg.org/2009/agents/43428
+description: ''
+gutenberg_issued: '2014-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45724'
+  lccn: 03017820
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage -- History'
+- !lcsh 'Totemism'
+title: Social Origins and Primal Law
+url: http://www.gutenberg.org/ebooks/45724
